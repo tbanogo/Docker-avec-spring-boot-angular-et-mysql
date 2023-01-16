@@ -1,6 +1,6 @@
 
 
-# De Serge Théophile BANOGO 
+De Serge Théophile BANOGO 
 
 # Prérequis avant de commencer
     - Avoir docker installer sur sa machine
