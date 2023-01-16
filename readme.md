@@ -1,9 +1,9 @@
 
 
-### De Serge Théophile BANOGO 
+# De Serge Théophile BANOGO 
 
-## Prerequis avant de commencer
-
-# Ouvrir le dossier backend avec spring tool suite ou autre editeur et installer les dependances
-    - sur sts clic droit sur le projet puis dans "run as" cliquez sur "maven install"
-    - sur autre editeur trouver le moyen
+# Prérequis avant de commencer
+    - Avoir docker installer sur sa machine
+    - Télécharger le projet ou clonez-le 
+    - Extraire le projet et s'y placer dans la racine
+    - Lancer la commande : docker-composer up
